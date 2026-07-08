@@ -1,9 +1,9 @@
 # Tic-Tac-Toe-Game
-A simple Tic Tac Toe game built using C
+A simple Tic Tac Toe game built using C Language
 
 # Tic Tac Toe Game
 
-A simple Tic Tac Toe game built using C
+A simple Tic Tac Toe game built using C Language
 
 ## Features
 - Two-player mode
